@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Admin-Pacientes-BrandonGomez/static/css/main.3becedc6.css",
+    "main.js": "/Admin-Pacientes-BrandonGomez/static/js/main.6115e1ca.js",
+    "index.html": "/Admin-Pacientes-BrandonGomez/index.html",
+    "main.3becedc6.css.map": "/Admin-Pacientes-BrandonGomez/static/css/main.3becedc6.css.map",
+    "main.6115e1ca.js.map": "/Admin-Pacientes-BrandonGomez/static/js/main.6115e1ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3becedc6.css",
+    "static/js/main.6115e1ca.js"
+  ]
+}
